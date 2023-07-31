@@ -1,4 +1,3 @@
-# ibm_data_engineering_capstone
 # IBM Data Engineering Professional Certificate
 
 ##### https://www.coursera.org/professional-certificates/ibm-data-engineer  
